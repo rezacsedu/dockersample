@@ -1,6 +1,6 @@
 # Dockerfile
 
-FROM  phusion/baseimage:0.9.17
+FROM  rezacsedu/dockersample
 
 MAINTAINER  Author Name <author@email.com>
 
